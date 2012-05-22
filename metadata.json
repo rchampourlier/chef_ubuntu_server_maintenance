@@ -1,0 +1,30 @@
+{
+  "name": "ubuntu_server_maintenance",
+  "description": "A cookbook with recipes for installing and configuring maintenance software for an Ubuntu Server machine",
+  "long_description": "",
+  "maintainer": "Romain Champourlier, softrli",
+  "maintainer_email": "romain@softr.li",
+  "license": "MIT",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "apt_versions_show": "Installs the apt-versions-show package. Allows listing currently installed packages."
+  },
+  "version": "0.0.1"
+}
